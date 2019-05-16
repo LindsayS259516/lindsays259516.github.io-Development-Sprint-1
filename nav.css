@@ -3,7 +3,7 @@
 
 .sidenav { float: left; width: 200px; height: 100%; ; background: #ccc; }
 
-footer { background-color: #777; padding: 10px; text-align: center; color: white;}
+footer { background-color: #777; padding: 10px; text-align: center; height: 100px; color: white;}
 
 ul.c { list-style-type: none; margin: 0; padding: 0px; overflow: hidden; background-color: #00284d;  border: 1px solid #555;}
 ul.d { list-style-type: none; margin: 0; padding: 25px 50px 75px 0px; overflow: hidden; background-color: #00284d; }
