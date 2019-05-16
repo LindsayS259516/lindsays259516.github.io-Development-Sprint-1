@@ -2,7 +2,7 @@
 
 .header { padding: 20px; text-align: center; color: white; font-size: 18px; }
 
-.sidenav { float: left; width: 200px; height: 100%; ; background: #ccc; }
+.sidenav { align: left; width: 200px; height: 100%; ; background: #ccc; }
 
 footer { background-color: #777; padding: 10px; text-align: center; height: 100px; color: white;}
 
