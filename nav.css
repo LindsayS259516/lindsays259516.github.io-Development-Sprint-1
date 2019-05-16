@@ -1,0 +1,11 @@
+﻿.header { padding: 60px; text-align: center; background: url(http://www.yoursite.com/folder/image.jpg) URL("Images\cdu-masterlogo.png"); color: white; font-size: 30px; }
+
+ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #00284d; }
+
+li { float: left; font-size:14px}
+
+li a { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; }
+
+li a:hover { background-color: #d9d9d9; cursor: pointer; color: #00284d;font-weight: bold;}
+
+a:visited { color: #f2f2f2;}
