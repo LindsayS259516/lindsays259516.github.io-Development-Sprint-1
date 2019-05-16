@@ -17,4 +17,4 @@ li c:hover { background-color: #d9d9d9; cursor: pointer; color: #00284d;font-wei
 
 a:visited { color: #f2f2f2;}
 
-nav { float: left; width: 30%; height: 150px; background: #ccc; padding: 20px;}
+nav { align: left; width: 30%; height: 150px; background: #ccc; padding: 20px;}
